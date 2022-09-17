@@ -12,6 +12,4 @@ def sum_no_duplicates(l):
             
             return_list.append(numero)
             
-    print(sum(return_list))
-    
-sum_no_duplicates([1, 1, 2, 2, 3])
+    return sum(return_list)
