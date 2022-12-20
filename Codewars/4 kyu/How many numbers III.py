@@ -11,6 +11,3 @@ def find_all(sum_dig, digs):
         return []
     
     return [len(lista_final), int(lista_final[0]), int(lista_final[-1])]
-    
-    
-find_all(35,7)
